@@ -11,10 +11,12 @@
   width: 300px;
   height: 300px;
   background-color: #0000ff;
+  float: left;
 }
 
 #green {
   width: 75px;
   height: 300px;
   background-color: #3cb371;
+  clear: both;
 }
